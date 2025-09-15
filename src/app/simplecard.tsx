@@ -9,7 +9,7 @@ export default function SimpleCard() {
         <p className="text-gray-600 mb-4">
           Ini adalah contoh card sederhana menggunakan margin, padding, dan sizing di Tailwind CSS.
         </p>
-        <button className="px-4 py-2 bg-blue-500 text-white rounded-lg hover:bg-blue-600 cursor-pointer">
+        <button className="px-4 py-2 bg-blue-500 text-white rounded-lg hover:bg-blue-600">
           Klik Saya
         </button>
       </div>
